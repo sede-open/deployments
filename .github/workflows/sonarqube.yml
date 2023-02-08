@@ -1,4 +1,4 @@
-name: Scans
+name: SonarQube
 
 on:
   pull_request:
